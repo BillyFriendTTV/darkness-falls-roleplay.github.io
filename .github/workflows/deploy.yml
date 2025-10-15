@@ -55,4 +55,3 @@ jobs:
         source: built/public/*
         target: app/sites/landing/dist
         strip_components: 2
-
