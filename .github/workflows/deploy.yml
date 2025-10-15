@@ -34,7 +34,7 @@ jobs:
         cmd: generate # will run `yarn install` command
         
     - name: List files
-      run: ls built/public
+      run: ls built/main
       
     - name: Remove remote files
       uses: appleboy/ssh-action@v1.0.3
