@@ -12,3 +12,4 @@ sw.*
 .env.*
 .output
 built
+/.vs
